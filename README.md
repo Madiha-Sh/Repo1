@@ -4,11 +4,13 @@ We will learn to code in *markdown* language
 
 ## **What we will learn:**
 
-1. Heading
+1. Headings
     1. **##**
     2. **#**
-1. Subheading
-1. How to use these
+1. [Key Concepts](#key-concepts)
+1. [Code blocks](#code-blocks)
+1. [Markup Language](https://en.wikipedia.org/wiki/Markup_language) 
+
 ---
 ## Code blocks ##
 ---
@@ -38,3 +40,18 @@ while(i<number):
     print(next)
     i = i+1
 ```
+> text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text  text text text text 
+>
+>> message message message message message message message
+>-- *Someone*
+
+## Key Concepts:
+- learn the concepts
+- implement them
+- get fixed if stucked somewhere
+
+And the concepts do not end here <br>this is just the beginning
+
+## To Do
+- [ ] Task #1
+- [ ] Task #2
