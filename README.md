@@ -53,5 +53,5 @@ while(i<number):
 And the concepts do not end here <br>this is just the beginning
 
 ## To Do
-- [ ] Task #1
+- [x] Task #1
 - [ ] Task #2
