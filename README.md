@@ -55,3 +55,29 @@ And the concepts do not end here <br>this is just the beginning
 ## To Do
 - [x] Task #1
 - [ ] Task #2
+
+---
+
+| First | Second | Third |
+| :------ | :------: | ------:|
+| A | B | C |
+| E | F | G |
+
+<details>
+<summary>Programming Languages</summary>
+
+- C
+- C++
+- Java
+- Python
+</details>
+
+<br>
+<br>
+
+## Foot Notes
+
+something to link [^1]
+
+## Footer
+[^1]: by someone
