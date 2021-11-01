@@ -81,3 +81,5 @@ something to link [^1]
 
 ## Footer
 [^1]: by someone
+
+use <kbd>alt</kbd>+<kbd>f4</kbd>to let the magic happen
